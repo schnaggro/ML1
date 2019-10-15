@@ -2,6 +2,6 @@ numpy==1.16.*
 matplotlib==3.*
 seaborn==0.8.1
 pandas
-SciPy==0.17.*
-joblib==0.11
-scikit-learn
+sklearn
+scipy
+joblib
